@@ -38,7 +38,7 @@
     </div>
   
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{sooani}?pet-id=634712797667217650" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/{sooani}?pet-id=634713401907051170" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/{sooani}?pet-id=1" width="25%" height="100"/>
+  <img src="https://render.gitanimals.org/lines/{sooani}?pet-id=634713401907051170" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/{sooani}?pet-id=634712797667217650" width="25%" height="100"/><img 
+src="https://render.gitanimals.org/lines/{sooani}?pet-id=1" width="25%" height="100"/>
 </a>
-
 
