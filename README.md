@@ -37,4 +37,6 @@
            /> </div> 
     </div>
 
-![Snake animation](https://raw.githubusercontent.com/sooani/sooani/output/github-contribution-grid-snake-dark.svg)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{sooani}?pet-id=1" width="1000" height="120"/>
+</a>
