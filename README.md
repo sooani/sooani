@@ -36,7 +36,3 @@
              /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooani&layout=compact&bg_color=180,ffe5f5,00000000&title_color=baa0b0&text_color=baa0b0"
            /> </div> 
     </div>
-    
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/sooani?pet-id=636278379290388039" width="200" height="120"/><img src="https://render.gitanimals.org/lines/sooani?pet-id=636277573380044825" width="200" height="120"/><img src="https://render.gitanimals.org/lines/sooani?pet-id=636503254948990813" width="200" height="120"/>
-</a>
